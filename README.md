@@ -12,6 +12,7 @@ git clone https://github.com/elaminelaaraich/dools.git
 java -version
 
 # start the jar
+cd out/artifacts/dools_project_jar
 java -jar dools-project.jar "path/to/sourceData.csv" "path/to/drools decison table.xls" "result.csv"
 ```
 **Your JAR file exist in out\artifacts\dools_project_jar\dools-project.jar**
