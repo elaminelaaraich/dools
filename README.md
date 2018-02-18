@@ -5,6 +5,9 @@
 **Make sure you have Java version >= 8.0**
   
 ```bash
+# If you use git
+git clone https://github.com/elaminelaaraich/dools
+# If you don't use git download the zip file from https://github.com/elaminelaaraich/dools
 # make sure of java version >= 8.0
 java -version
 
